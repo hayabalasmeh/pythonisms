@@ -10,4 +10,4 @@
 
 ## PR:
 
-[pr]()
+[pr](https://github.com/hayabalasmeh/pythonisms/pull/1)
